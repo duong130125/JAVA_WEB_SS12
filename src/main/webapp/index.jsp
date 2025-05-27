@@ -6,5 +6,6 @@
 </head>
 <body>
     <h4>Trang chủ</h4>
+    <a href="list-student">List Student</a>
 </body>
 </html>
